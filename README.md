@@ -1,6 +1,6 @@
 <br>
 <br>
-<p align=center><span font-size:4em;"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span><span style="font-family:Papyrus; font-size:4em;"> Hello World 🌍 </span></p>
+<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <strong>Hello World</strong> 🌍 </p>
 <br>
 <br>
 I am a language enthusiast and lifelong learner, who enjoys creating products that are useful and make life easier. 
