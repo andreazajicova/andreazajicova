@@ -16,7 +16,7 @@ I believe that programming can make a sustainable future. Challenges that make m
 <br>
 **β.** 2019 Self-study
 <br>
-**γ.** 2020 School of Applied Technology <pre></salt></pre> three months intensive training
+**γ.** 2020 School of Applied Technology three months intensive training
 <br>
 **δ.** FullStack JavaScript developer
 <br>
