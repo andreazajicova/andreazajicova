@@ -25,3 +25,7 @@ I believe that programming can make a sustainable future. Challenges that make m
 ![](https://img.shields.io/badge/METHODS-Agile-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 
 
+You can find me on [![LinkedIn][3.2]][3]
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: linkedin.com/in/andreazajicova/
