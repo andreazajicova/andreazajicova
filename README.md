@@ -35,7 +35,7 @@ I believe that programming can make a sustainable future. Challenges that make m
 ![](https://img.shields.io/badge/FRONTEND-REDUX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FRONTEND-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FRONTEND-jQuery/Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FRONTEND-CSS/SASS/MaterialUi-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FRONTEND-CSS/SASS/Material-ui-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/TOOLS-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/TOOLS-Mocha/Jest-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
