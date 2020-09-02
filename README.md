@@ -20,6 +20,8 @@ I believe that programming can make a sustainable future. Challenges that make m
 <br>
 **δ.** FullStack JavaScript developer
 <br>
+<br>
+<br>
 
 
 ### Technical Skills:
