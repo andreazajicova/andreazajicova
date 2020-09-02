@@ -10,11 +10,13 @@ I believe that programming can make a sustainable future. Challenges that make m
 <br>
 <br>
 
+<pre>
 ### My coding journey:
 **α** 2018 Bitcamp Start Up Lab course on Web development basics and Ruby on Rails 
 **β** 2019 Self-study
 **γ** 2020 School of Applied Technology (</salt>) three months intensive training
 **δ** FullStack JavaScript developer
+</pre>
 
 ### Technical Skills:
 
