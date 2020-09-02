@@ -4,7 +4,8 @@
 <br>
 <br>
 I am a language enthusiast and lifelong learner, who enjoys creating products that are useful and make life easier. 
-I believe that programming can make a sustainable future. Challenges that make me grow and develop myself are the best.
+I believe that programming makes a sustainable future and that knowing a programming language is crucial to nowadays communication. 
+Challenges that make me grow and develop myself are the best.
 <br>
 I am fluent in 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 
