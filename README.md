@@ -59,6 +59,6 @@ You can find me on:
 
 [1]: https://linkedin.com/in/andreazajicova
  
-or at my computer: 
+or at my computer: 👩🏻‍💻
 
 ![At my computer](IMG_20200323_161256.jpg?raw=true "At my computer")
