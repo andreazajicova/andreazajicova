@@ -5,6 +5,7 @@
 <br>
 I am a language enthusiast and lifelong learner, who enjoys creating products that are useful and make life easier. 
 I believe that programming can make a sustainable future. Challenges that make me grow and develop myself are the best.
+I am fluent in 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 
 
 <br>
