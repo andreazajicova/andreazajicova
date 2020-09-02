@@ -59,5 +59,4 @@ You can find me on:
 
 [1]: https://linkedin.com/in/andreazajicova
  
-or at my computer: 
-![Screenshot](Screenshot 2020-09-02 at 22.50.00.png)
+
