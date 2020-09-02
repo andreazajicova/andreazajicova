@@ -61,4 +61,4 @@ You can find me on:
  
 or at my computer: 
 
-![At my computer](IMG_20200323_161256.jpg?raw=true "At my computer")
+![At my computer](./readme/IMG_20200323_161256.jpg?raw=true "At my computer")
