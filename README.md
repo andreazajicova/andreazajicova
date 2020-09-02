@@ -10,7 +10,7 @@ I believe that programming can make a sustainable future. Challenges that make m
 <br>
 <br>
 
-
+---
 ### My coding journey:
 **α.** 2018 Bitcamp Start Up Lab course on Web development basics and Ruby on Rails 
 <br>
