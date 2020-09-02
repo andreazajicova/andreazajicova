@@ -6,6 +6,7 @@
 I am a language enthusiast and lifelong learner, who enjoys creating products that are useful and make life easier. 
 I believe that programming can make a sustainable future. Challenges that make me grow and develop myself are the best.
 
+
 <br>
 <br>
 
@@ -32,7 +33,7 @@ I believe that programming can make a sustainable future. Challenges that make m
 
 <br>
 <br>
-You can find me on 
+You can find me on: 
 
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
 
