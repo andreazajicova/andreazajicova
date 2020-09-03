@@ -23,7 +23,7 @@ I am fluent in 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 <br>
 **γ.** 2020 School of Applied Technology three months intensive training
 <br>
-**δ.** FullStack JavaScript developer
+**δ.** 2020 onwards.... 🚀 FullStack JavaScript developer
 <br>
 <br>
 <br>
