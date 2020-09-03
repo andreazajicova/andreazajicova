@@ -19,7 +19,7 @@ I am fluent in 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 ### 🚀 My coding journey 🚀
 **α.** 2018 Bitcamp Start Up Lab course on Web development basics and Ruby on Rails 
 <br>
-**β.** 2019 Self-study
+**β.** 2019 Self-study and creating
 <br>
 **γ.** 2020 School of Applied Technology three months intensive training
 <br>
