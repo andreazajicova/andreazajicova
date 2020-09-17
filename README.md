@@ -61,6 +61,4 @@ You can find me on:
  
 or at my computer: 👩🏻‍💻
 
-![At my computer]
-
-[![image](https://user-images.githubusercontent.com/35815182/93466401-7957f800-f8ec-11ea-83ae-68039690ae7f.png)]
+[![At my computer](https://user-images.githubusercontent.com/35815182/93466829-1dda3a00-f8ed-11ea-9ce6-2ab798eac2d2.png)]
