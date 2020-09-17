@@ -55,7 +55,8 @@ I am fluent in 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 <br>
 You can find me on: 
 
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1] [![iconfinder_globe_298790](https://user-images.githubusercontent.com/35815182/93467611-2e3ee480-f8ee-11ea-9159-4d3cda2f3c0f.png)][2]
+[![iconfinder_Circled_Linkedin_svg_5279114](https://user-images.githubusercontent.com/35815182/93468080-bb823900-f8ee-11ea-970f-ff270d6d30e1.png)
+][1] [![iconfinder_globe_298790](https://user-images.githubusercontent.com/35815182/93467611-2e3ee480-f8ee-11ea-9159-4d3cda2f3c0f.png)][2]
 
 [1]: https://linkedin.com/in/andreazajicova
 [2]: https://salt.dev/
