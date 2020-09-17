@@ -47,6 +47,7 @@ I am fluent in 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 ![](https://img.shields.io/badge/TOOLS-Handlebars/Pug-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/TOOLS-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/TOOLS-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/TOOLS-Firebase-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 
 ![](https://img.shields.io/badge/METHODS-TDD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/METHODS-Agile-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
