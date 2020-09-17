@@ -63,4 +63,4 @@ or at my computer: 👩🏻‍💻
 
 ![At my computer]
 
-(https://user-images.githubusercontent.com/35815182/93466401-7957f800-f8ec-11ea-83ae-68039690ae7f.png)
+[![image](https://user-images.githubusercontent.com/35815182/93466401-7957f800-f8ec-11ea-83ae-68039690ae7f.png)]
