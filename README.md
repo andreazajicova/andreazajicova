@@ -4,12 +4,12 @@
 <br>
 <br>
 <p align=center>
-I am a language enthusiast and lifelong learner, who enjoys creating products that are useful and make life easier. 
+I am a language enthusiast and lifelong learner, who enjoys creating things that are useful and make life easier. 
 I believe that programming makes a sustainable future and that knowing a programming language is crucial for nowadays communication. 
-Challenges that make me grow and develop myself are the best.
+Challenges that make me grow are the best.
   
 <br>
-I am fluent in 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
+I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 </p>
 
 <br>
