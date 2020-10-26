@@ -16,7 +16,7 @@ I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 <br>
 
 ---
-### 🚀 My coding journey 🚀
+### My coding journey 🌱
 **α.** 2018 Bitcamp Start Up Lab course on Web development basics and Ruby on Rails 
 <br>
 **β.** 2019 Self-study and creating
