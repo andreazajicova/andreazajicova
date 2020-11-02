@@ -15,7 +15,7 @@ I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 <br>
 <br>
 
-[!(Check my portfolio)][3]
+[Check my portfolio][3]
 
 [3]: https://andreas-portfolio.netlify.app
 
