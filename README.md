@@ -1,4 +1,4 @@
-<p align=center><img src="https://user-images.githubusercontent.com/35815182/97879477-52c91180-1d20-11eb-9967-c33057a7bdbc.png" width="1000px">
+<p align=center><img src="https://user-images.githubusercontent.com/35815182/97879477-52c91180-1d20-11eb-9967-c33057a7bdbc.png" width="800px">
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><strong>Hello World</strong> 🌍 </p>
 <br>
 <p align=center>
