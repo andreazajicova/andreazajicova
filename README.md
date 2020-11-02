@@ -1,5 +1,7 @@
 ![header](https://user-images.githubusercontent.com/35815182/97858670-c7d81f00-1cff-11eb-9af5-253253425e21.png)
 
+[🦚 Check my portfolio](https://andreas-portfolio.netlify.app)
+
 <br>
 <br>
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <strong>Hello World</strong> 🌍 </p>
@@ -16,8 +18,6 @@ I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 
 <br>
 <br>
-
-[🦚 Check my portfolio](https://andreas-portfolio.netlify.app)
 
 
 ---
