@@ -8,7 +8,6 @@ I am a language enthusiast and lifelong learner, who enjoys creating things that
 I believe that programming makes a sustainable future and that knowing a programming language is crucial for nowadays communication. 
 Challenges that make me grow are the best.
   
-<br>
 I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 </p>
 <br>
