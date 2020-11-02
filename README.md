@@ -1,7 +1,6 @@
-
+![header](https://user-images.githubusercontent.com/35815182/97877424-763e8d00-1d1d-11eb-9d71-64e1118bc2fd.png)
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><strong>Hello World</strong> 🌍 </p>
 <br>
-![header](https://user-images.githubusercontent.com/35815182/97877424-763e8d00-1d1d-11eb-9d71-64e1118bc2fd.png)
 <p align=center>
 I am a language enthusiast and lifelong learner, who enjoys creating things that are useful and make life easier. 
 I believe that programming makes a sustainable future and that knowing a programming language is crucial for nowadays communication. 
