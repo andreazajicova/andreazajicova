@@ -2,12 +2,11 @@
 
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <strong>Hello World</strong> 🌍 </p>
 <br>
-<br>
 <p align=center>
 I am a language enthusiast and lifelong learner, who enjoys creating things that are useful and make life easier. 
 I believe that programming makes a sustainable future and that knowing a programming language is crucial for nowadays communication. 
 Challenges that make me grow are the best.
-  
+
 I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 </p>
 <br>
