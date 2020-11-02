@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/35815182/97874909-fcf16b00-1d19-11eb-844f-6e3306f0dc12.png)
+![header](https://user-images.githubusercontent.com/35815182/97877092-fe706280-1d1c-11eb-8413-76692e637292.png)
 
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <strong>Hello World</strong> 🌍 </p>
 <br>
