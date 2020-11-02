@@ -10,7 +10,7 @@ I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 </p>
 <br>
 
-<p align=center><img src="https://user-images.githubusercontent.com/35815182/97877424-763e8d00-1d1d-11eb-9d71-64e1118bc2fd.png" width="70px")>
+<p align=center><img src="https://user-images.githubusercontent.com/35815182/97877424-763e8d00-1d1d-11eb-9d71-64e1118bc2fd.png" width="90px")>
 
 [🌱 Check my portfolio](https://andreas-portfolio.netlify.app) 
 
