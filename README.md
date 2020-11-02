@@ -12,6 +12,7 @@ Challenges that make me grow are the best.
 <br>
 I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 </p>
+<br>
 
 ---
 
