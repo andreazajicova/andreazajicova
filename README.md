@@ -26,7 +26,6 @@ I speak/write/type 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 **δ.** 2020 onwards.... 🚀 FullStack JavaScript developer
 <br>
 <br>
-<br>
 
 ---
 
