@@ -1,4 +1,4 @@
-
+<p align=center><img src="https://user-images.githubusercontent.com/35815182/97879477-52c91180-1d20-11eb-9967-c33057a7bdbc.png" width="1200px">
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><strong>Hello World</strong> 🌍 </p>
 <br>
 <p align=center>
@@ -14,7 +14,6 @@ I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 
 [🌱 Check my portfolio](https://andreas-portfolio.netlify.app) 
 
-<p align=center><img src="https://user-images.githubusercontent.com/35815182/97879477-52c91180-1d20-11eb-9967-c33057a7bdbc.png" width="1200px">
  
 ---
 ### My coding journey 
