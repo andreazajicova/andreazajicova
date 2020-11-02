@@ -12,9 +12,10 @@ Challenges that make me grow are the best.
 I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 </p>
 
+<br>
+<br>
+
 [🦚 Check my portfolio](https://andreas-portfolio.netlify.app)
-
-
 
 
 ---
