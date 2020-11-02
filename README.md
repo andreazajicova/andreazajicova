@@ -1,4 +1,4 @@
-
+<p align=center><img src="https://user-images.githubusercontent.com/35815182/97878597-1ba63080-1d1f-11eb-84ce-6ce60d3491dd.png" width="400px">
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><strong>Hello World</strong> 🌍 </p>
 <br>
 <p align=center>
@@ -16,8 +16,6 @@ I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 
 
 ---
-<p align=center><img src="https://user-images.githubusercontent.com/35815182/97878597-1ba63080-1d1f-11eb-84ce-6ce60d3491dd.png" width="400px">
- 
 ### My coding journey 
 **α.** 2018 Bitcamp Start Up Lab course on Web development basics and Ruby on Rails 
 <br>
