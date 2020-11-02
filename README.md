@@ -14,7 +14,7 @@ I speak/write 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 
 [🌱 Check my portfolio](https://andreas-portfolio.netlify.app)
 
-
+</p>
 ---
 ### My coding journey 
 **α.** 2018 Bitcamp Start Up Lab course on Web development basics and Ruby on Rails 
