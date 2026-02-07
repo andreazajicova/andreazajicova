@@ -23,7 +23,7 @@ I speak/write/type 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 <br>
 **γ.** 2020 School of Applied Technology three months intensive bootcamp
 <br>
-**δ.** 2020 onwards.... 🚀 FullStack JavaScript developer
+**δ.** 2020 onwards.... 🚀 FullStack developer
 <br>
 <br>
 
@@ -56,7 +56,7 @@ I speak/write/type 5 languages: Czech, English, Norwegian, Spanish, JavaScript.
 ![](https://img.shields.io/badge/METHODS-TDD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/METHODS-Agile-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 
-
+... and more
 <br>
 <br>
 You can find me on: 
